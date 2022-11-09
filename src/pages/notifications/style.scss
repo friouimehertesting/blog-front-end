@@ -1,0 +1,14 @@
+.notification {
+  background-color: white;
+  min-width: 100px;
+  min-height: 50px;
+  color: #111;
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 1px solid lightgray;
+  padding: 5px 20px;
+  display: grid;
+  place-items: center;
+}
